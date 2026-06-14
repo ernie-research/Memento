@@ -1,0 +1,67 @@
+{
+  "story_name": "The Last Walk",
+  "story_overview": "A lone astronaut embarks on a tranquil yet emotional mission to the Moon. From the quiet interior of a spacecraft to the breathtaking lunar surface, the astronaut experiences solitude, wonder, and a deep connection with the cosmos. The story captures humanity’s longing for exploration and peace in the silence of space, ending with a quiet moment under the stars before returning home.",
+  "reconstruct_target": "[Person A] astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] floats gently near a wide window inside a softly lit spacecraft cabin. Earth and the Moon glow beyond the glass, casting cool blue light over curved metallic panels and loose tools drifting slowly in zero gravity.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] steadies one hand on a softly glowing digital mission panel, then turns his helmet visor toward the Moon beyond the cabin window. Blue interface light reflects across the gold-tinted visor as he remains calm and controlled in zero gravity.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] tightens both bulky gloves and gives a small steady nod inside the dim spacecraft cabin. The cabin lights flicker across his white spacesuit as faint vibrations pass through floating straps and nearby equipment during the descent."
+      ],
+      "first_frame_prompt": [
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit floats near a spacecraft window, with Earth and Moon glowing softly beyond the glass.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit faces the Moon through the spacecraft window beside a softly glowing mission panel.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit tightens bulky gloves as lunar light reflects across a gold-tinted helmet visor."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: A compact white lunar lander with angular legs, ladder, foil-wrapped modules, and dust-covered landing pads settles onto pale gray lunar dust. [Person A] descends the ladder with slow, careful movements as fine silver dust lifts under weak gravity.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] walks forward across the Moon with slow, deliberate steps, leaving crisp footprints in the powdery gray dust. His long shadow trails across the lunar plain as he tilts his helmet visor upward toward a star-filled black sky.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] plants a small plain mission flag on a slender pole with muted fabric and no visible writing beside a low lunar rock formation. He releases the pole with careful gloved hands, then turns slowly to take in the wide, silent horizon.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] kneels on the lunar surface and lifts a small rough Moon rock with pale gray edges and powdery dust using both bulky gloves. Fine dust drifts downward in slow motion as Earth appears as a small blue reflection across his gold-tinted visor."
+      ],
+      "first_frame_prompt": [
+        "Compact white lunar lander rests on a pale gray surface while an adult human astronaut in a pristine white spacesuit descends the ladder through faint silver dust.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit walks carefully across the Moon under low sunlight, leaving long shadows and crisp footprints.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit stands beside a small plain mission flag near muted gray lunar rocks.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit kneels on the lunar surface, holding a small pale gray Moon rock near a reflective helmet visor."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] sits quietly on a small lunar rock, facing Earth above the distant horizon as the Sun lowers behind a gray ridge. Orange dusk light stretches long shadows across the pale surface while the black sky remains still and vast.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] activates a small blue holographic recorder beacon with a round lens and soft pulsing light beside the lunar rock with a careful gloved touch. The blue light pulses slowly near his white spacesuit as his helmet visor remains angled toward Earth.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor, [Vehicle A]: compact white lunar lander with angular legs, ladder, foil-wrapped modules, and dust-covered landing pads; shot caption: [Person A] stands, pauses for a final look toward Earth, and turns toward the compact white lunar lander with angular legs, ladder, foil-wrapped modules, and dust-covered landing pads. Curving footprints mark the gray dust behind him.",
+        "global caption: [Person A]: astronaut with short dark hair wearing pristine white spacesuit, bulky gloves, life-support backpack, and reflective gold-tinted helmet visor; shot caption: [Person A] sits inside the spacecraft cabin, removes his helmet, and watches the Moon shrink beyond the window during ascent. Soft window light reveals his short dark hair and a calm, tired face as the helmet rests beside his white spacesuit."
+      ],
+      "first_frame_prompt": [
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit sits on a small lunar rock, with Earth above the horizon and orange dusk light across the Moon.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit touches a small blue holographic recorder beacon beside a lunar rock.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit walks back toward a compact white lunar lander, with faint footprints trailing across gray dust.",
+        "Adult human astronaut of indeterminate gender in a pristine white spacesuit sits inside the spacecraft cabin with helmet removed, watching the Moon through the window."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        true
+      ]
+    }
+  ]
+}

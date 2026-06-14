@@ -1,0 +1,56 @@
+{
+  "story_name": "Jane Eyre: A Quiet Strength",
+  "reconstruct_target": "[Person A] young woman with tied-back brown hair wearing plain gray dress\n[Person B] middle-aged man with dark hair wearing formal dark clothing",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress; shot caption: [Person A] sits alone beside a frosted window in a dimly lit room, holding a small worn book close to her chest. Snow falls softly beyond the glass as cool blue light crosses her face, highlighting her still and lonely posture.",
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress, [Group B]: schoolgirls with neatly tied hair wearing muted uniforms; shot caption: [Person A] walks through the quiet halls while carrying a stack of worn books. Schoolgirls with pale faces, modest muted uniforms, neatly tied hair, and quiet orderly posture pass along the corridor in silence as she keeps a steady, composed expression."
+      ],
+      "cut": [
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress; shot caption: [Person A] steps down from a small carriage before a grand shadowed manor surrounded by drifting mist. She pauses on the gravel path, lifting her gaze toward the tall building with quiet curiosity and calm courage.",
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress; shot caption: [Person A] walks through candle-lit corridors inside the manor with measured steps. Flickering warm light reflects across stone walls as deep shadows stretch along the passage, and she scans the surroundings with restrained attention.",
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress, [Person B]: middle-aged man with dark hair wearing formal dark clothing; shot caption: [Person A] stands politely inside a warm library near [Person B], who is seated beside a fireplace in dark formal clothes. She holds a composed posture while he lifts his gaze briefly, creating restrained eye contact in the firelit room."
+      ],
+      "cut": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress, [Person B]: middle-aged man with dark hair wearing formal dark clothing; shot caption: [Person A] walks side by side with [Person B] through a garden under soft morning light. She moves calmly as a gentle breeze sways her simple dress, and both figures keep a respectful distance along the path while sharing a quiet conversation.",
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress; shot caption: [Person A] stands in soft natural light, lowering her gaze slightly. Loose strands of hair move in the gentle breeze, and she forms a subtle, restrained smile while her shoulders remain relaxed.",
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress; shot caption: [Person A] stands beside a window at night, looking outward toward a moonlit garden. Cool blue light outlines her figure as she remains motionless, a faint sadness lingering on her face with a quiet, weighted expression."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress; shot caption: [Person A] stands alone on a quiet countryside road at dawn, wearing a simple cloak and carrying a small satchel. Soft golden light spreads across open fields and pale mist as she maintains a composed, quietly determined posture.",
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress; shot caption: [Person A] walks into a partially ruined manor courtyard covered with ivy and faint smoke. She moves slowly across the broken stone, scanning her surroundings with a searching gaze and an uncertain stillness.",
+        "global caption: [Person A]: young woman with tied-back brown hair wearing plain gray dress, [Person B]: middle-aged man with dark hair wearing formal dark clothing; shot caption: [Person A] gently places her hand onto the hand of [Person B], who is seated near a fireplace with closed eyes. She remains still as his expression softens with recognition and relief, while warm golden firelight fills the room."
+      ],
+      "cut": [
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

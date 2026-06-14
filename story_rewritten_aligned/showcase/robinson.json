@@ -1,0 +1,79 @@
+{
+  "story_name": "Robinson Crusoe",
+  "story_overview": "A young sailor, Robinson Crusoe, survives a shipwreck and finds himself alone on a deserted island. Through determination and ingenuity, he learns to survive—building shelter, taming nature, and finding companionship with a rescued man named Friday. The story captures his transformation from fear to resilience, and finally, to peace and hope.",
+  "reconstruct_target": "[Person A] young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt\n[Person B] man with short curly black hair wearing simple woven tan clothing",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt; shot caption: [Person A] clings to a mast on a wooden sailing ship as towering waves slam across the deck under a dark, stormy sky. [Person A] pulls ropes and braces against the rail while lightning flashes through heavy rain and rough sea spray.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt; shot caption: [Person A] loses his grip on the mast and falls from the tilting wooden sailing ship into the churning dark water. He kicks through the foam and reaches toward broken waves as thunderclouds loom above the rolling ocean.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt; shot caption: [Person A] lies unconscious on wet sand at sunrise, his torn clothing soaked. The calm ocean glistens behind him as he slowly opens his eyes, lifts his head slightly, and scans the empty shoreline in silence."
+      ],
+      "first_frame_prompt": [
+        "Young adult male sailor Robinson Crusoe with sun-browned skin, short dark brown hair, worn beige sailor shirt, dark vest, and soaked trousers clings to the mast as rain and lightning reveal exhausted sailors on a storm-battered deck.",
+        "Young adult male sailor Robinson Crusoe with sun-browned skin, short dark brown hair, worn beige sailor shirt, dark vest, and soaked trousers falls into churning sea beside the tilted wooden sailing ship.",
+        "Young adult male sailor Robinson Crusoe with sun-browned skin, short dark brown hair, worn beige sailor shirt, dark vest, and soaked trousers lies on wet sand beneath quiet sunrise light."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt; shot caption: [Person A] steps carefully through the dense island jungle, carrying a wooden stick and a small bundle of salvaged supplies. He parts broad leaves with the stick, looking cautiously between shadowed tree trunks as sunlight filters through the canopy.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt; shot caption: [Person A] stacks branches near a rocky cliffside camp, with gathered fruit and salvaged tools arranged nearby. He wipes sweat from his forehead, tightens his grip on a branch, and fits it into a rough wooden hut frame.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt; shot caption: [Person A] kneels beside a small campfire ring at dusk, striking flint stones above dry grass. He watches the first flames catch, his shoulders lowering as the orange firelight warms his calm, resolute face against the darkening camp."
+      ],
+      "first_frame_prompt": [
+        "Young adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, torn beige sailor shirt, dark vest, patched trousers, and rough leather belt steps through dense green jungle with a stick and salvaged bundle.",
+        "Young adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, torn beige sailor shirt, dark vest, patched trousers, and rough leather belt stacks branches beside a rocky cliffside camp.",
+        "Young adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, torn beige sailor shirt, dark vest, patched trousers, and rough leather belt strikes flint stones as dusk settles over a small campfire ring."
+      ],
+      "cut": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt; shot caption: [Person A] carves a piece of wood beside a crude hut on a sunny beach, then pauses with his knife held still. He turns toward fresh footprints pressed into the sand and rises slowly with a tense jaw and narrowed eyes.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt, [Person B]: man with short curly black hair wearing simple woven tan clothing; shot caption: [Person A] crouches behind thick coastal bushes and spots [Person B] bound with ropes in a sandy clearing. [Person A] steps forward cautiously and loosens the ropes, while [Person B] bows his head and gives a small, relieved smile.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt, [Person B]: man with short curly black hair wearing simple woven tan clothing; shot caption: [Person A] and [Person B] repair a rough wooden fence and cook food beside a campfire at a golden sunset. [Person A] passes a branch to [Person B], who answers with an easy smile as warm light settles across their camp."
+      ],
+      "first_frame_prompt": [
+        "Adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, short beard, animal-skin tunic, and rough leather belt pauses beside a crude hut with fresh footprints visible in beach sand.",
+        "Adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, short beard, animal-skin tunic, and rough leather belt crouches near adult male islander Friday with dark brown skin, short curly black hair, and simple woven tan clothing bound with ropes.",
+        "Adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, short beard, animal-skin tunic, and rough leather belt works beside adult male islander Friday with dark brown skin, short curly black hair, and simple woven tan clothing near a fence and campfire at sunset."
+      ],
+      "cut": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt, [Person B]: man with short curly black hair wearing simple woven tan clothing; shot caption: [Person A] and [Person B] stand atop a high cliff at dawn, looking toward a distant ship on the calm ocean horizon. [Person A] lifts his chin while [Person B] leans forward slightly, soft golden light outlining both their faces.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt, [Person B]: man with short curly black hair wearing simple woven tan clothing; shot caption: [Person A] and [Person B] wave both arms toward the approaching ship beyond the cliff edge. The wind lifts their loose hair and fabric as [Person A] smiles with wet eyes and [Person B] continues waving toward the sea.",
+        "global caption: [Person A]: young man with short dark brown hair wearing torn beige sailor shirt, dark vest, patched trousers, and rough leather belt, [Person B]: man with short curly black hair wearing simple woven tan clothing; shot caption: [Person A] and [Person B] appear as small figures on the cliff, with the island camp, crude hut, and shoreline spread below. The distant ship sails closer across the brightening water as sunrise expands over the ocean."
+      ],
+      "first_frame_prompt": [
+        "Adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, short beard, animal-skin tunic, and rough leather belt stands beside adult male islander Friday with dark brown skin, short curly black hair, and simple woven tan clothing on a dawn cliff facing a distant ship.",
+        "Adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, short beard, animal-skin tunic, and rough leather belt waves beside adult male islander Friday with dark brown skin, short curly black hair, and simple woven tan clothing toward an approaching vessel.",
+        "Adult male castaway Robinson Crusoe with sun-browned skin, short dark brown hair, short beard, animal-skin tunic, and rough leather belt stands as a small cliffside figure beside adult male islander Friday with dark brown skin, short curly black hair, and simple woven tan clothing above the island camp and sunrise sea."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ]
+    }
+  ]
+}

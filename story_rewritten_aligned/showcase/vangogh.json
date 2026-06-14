@@ -1,0 +1,64 @@
+{
+  "story_name": "The Light of Van Gogh",
+  "story_overview": "A poetic visual story about Vincent van Gogh’s artistic journey — from humble beginnings in a small room, to moments of inspiration in the fields of Arles, and finally peaceful reflection under the starry night. The short film captures passion, struggle, and the beauty Vincent van Gogh saw in the world through light and color. The tone is emotional yet calm, celebrating creativity and inner light.",
+  "reconstruct_target": "[Person A] middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] sits at a wooden table in a dim attic studio, facing a blank canvas among scattered paint tubes and brushes. He leans slightly forward, deep in thought, as soft sunlight passes through a small window and warm shadows settle across the walls.",
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] dips a brush into vivid yellow paint and lays the first bold strokes on a canvas. He keeps his gaze fixed intensely on the canvas while one hand steadies a wooden palette near the table edge, his hands moving with deliberate care.",
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] stands back from the wooden table and studies the painted canvas beside a flickering candle. He lowers his brush slightly, loosens his shoulders, and exhales deeply in reflection as moving shadows cast by the candle dance across the walls."
+      ],
+      "first_frame_prompt": [
+        "Middle-aged male painter Vincent van Gogh with unkempt reddish-blond hair, thin reddish beard, angular pale face, lean build, expressive blue-green eyes, and simple worn painter clothing sits at a wooden table in a dim Paris attic studio, facing a blank canvas among scattered paint tubes and brushes.",
+        "Close view of middle-aged male painter Vincent van Gogh guiding a brush tip into vivid yellow paint near a canvas, with focused blue-green eyes and the dim Paris attic studio softened in the background.",
+        "Middle-aged male painter Vincent van Gogh stands back beside a flickering candle in the dim Paris attic studio, studying the painted canvas as moving shadows ripple across the walls."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] walks through golden wheat fields under the bright sun, carrying an easel and wrapped canvas on his back while a straw hat shades his face. Tall wheat bends gently in the wind as he moves along a narrow path toward the open farmland.",
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] sets up an easel beside a blooming sunflower field in the bright countryside. He begins painting with energetic, passionate strokes as sunlight glints across his wooden palette, capturing the vibrant real sunflowers onto his canvas.",
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] guides a paintbrush across the canvas, building thick yellow and orange petals with visible ridges of paint. Real sunflowers sway gently in the breeze beyond the canvas edge as his brush moves in a steady, deliberate rhythm.",
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] steps back from the easel in the sunflower field and looks over the completed bright canvas beneath the vast blue sky. His eyes glisten slightly, and a faint smile forms as the golden flowers glow vibrantly around him."
+      ],
+      "first_frame_prompt": [
+        "Middle-aged male painter Vincent van Gogh with unkempt reddish-blond hair, thin reddish beard, angular pale face, lean build, expressive blue-green eyes, simple worn painter clothing, and a straw hat walks through golden wheat fields with an easel and wrapped canvas on the back.",
+        "Middle-aged male painter Vincent van Gogh stands at an easel beside tall sunflowers in bright Provençal light, with a wooden palette catching sunlight and the painted canvas facing the blooming field.",
+        "Close view of a paintbrush guided by middle-aged male painter Vincent van Gogh, laying thick yellow-orange petals on a canvas while real sunflowers sway softly beyond the edge.",
+        "Middle-aged male painter Vincent van Gogh stands back from an easel in a glowing sunflower field, with a faint smile, glistening blue-green eyes, a bright canvas, and a vast blue sky overhead."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] stands beside an open window overlooking a quiet village at dusk, holding a sketchbook while gazing upward in awe toward an indigo sky with swirling clouds. Curtains move in a gentle evening breeze as he lifts the sketchbook closer to his chest.",
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] paints at an easel under flickering lantern light inside a quiet room at night, forming stars and swirling sky patterns with flowing brushstrokes. He tightens his grip on the brush, blinking slowly as his gaze remains fixed on the luminous canvas.",
+        "global caption: [Person A]: middle-aged man with unkempt reddish-blond hair and thin reddish beard wearing simple worn painter clothing; shot caption: [Person A] sits quietly beside the completed starry canvas in a moonlit room, resting both hands on his knees. The painting glows softly near the window while he holds a faint, peaceful smile, watching the shimmering night sky beyond the glass."
+      ],
+      "first_frame_prompt": [
+        "Middle-aged male painter Vincent van Gogh with unkempt reddish-blond hair, thin reddish beard, angular pale face, lean build, expressive blue-green eyes, and simple worn painter clothing stands at a dusk-lit window over Saint-Rémy, holding a sketchbook beneath an indigo swirling sky.",
+        "Middle-aged male painter Vincent van Gogh paints under lantern glow in a quiet Saint-Rémy room at night, shaping stars and swirling sky patterns across a luminous canvas.",
+        "Middle-aged male painter Vincent van Gogh sits peacefully beside a completed starry canvas in moonlight, with both hands resting on the knees and stars shimmering outside the window."
+      ],
+      "cut": [
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

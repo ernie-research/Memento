@@ -1,0 +1,61 @@
+{
+  "story_name": "A Day in the Life of Elon Musk",
+  "story_overview": "The story follows Elon Musk through a humorous yet inspiring day. From early morning coffee and rocket doodles to an intense Tesla factory visit and a quiet sunset moment reflecting on Mars dreams, the short narrative blends a busy entrepreneurial life with calm reflection, showing both human and visionary sides of Musk. The style is realistic yet slightly comedic, with smooth scene transitions and consistent character design.",
+  "reconstruct_target": "[Person A] middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans\n[Person B] adults wearing yellow safety vests, hard hats, clear safety glasses, work shirts, and work pants\n[Person C] young man with short black hair wearing yellow safety vest, clear safety glasses, blue work shirt, and dark work pants",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] sits at a minimalist kitchen island at sunrise, sipping coffee beside a tablet on a clean countertop. He glances down at the screen as warm sunlight enters through large windows, casting soft reflections that brighten the modern space.",
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] sketches a small rocket concept on a notepad beside his coffee mug in the kitchen. He pauses with an amused half-smile, looking focused and thoughtful, while electric car and rocket models sit on a shelf in the background.",
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] checks his wristwatch, quickly rises from the kitchen island, and reaches for a black jacket near the hallway entrance. He steps briskly toward the door with a sense of urgency as warm morning light stretches across the floor."
+      ],
+      "first_frame_prompt": [
+        "Medium view of minimalist sunrise kitchen with middle-aged male entrepreneur in black t-shirt and dark jeans seated at island beside coffee and tablet; warm window light, soft reflections, calm mood.",
+        "Tight close-up of middle-aged male entrepreneur's hand sketching small rocket on notepad beside coffee mug; blurred shelf with electric car models and rocket models; relaxed soft light, amused partial expression.",
+        "Hallway exit at warm morning light with middle-aged male entrepreneur in black t-shirt reaching for black jacket on wall hook; wristwatch visible, brisk comedic urgency."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] walks across a factory floor beside a group of factory workers in yellow safety vests and hard hats, listening attentively among polished car bodies and robotic assembly arms. One worker points toward moving production equipment while orange sparks flicker safely behind protective barriers.",
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] stops beside a sleek car prototype and gently taps the hood while a young engineer in a yellow safety vest stands near the front fender with a tablet. The engineer watches closely and nods as [Person A] traces a small design path in the air above the vehicle.",
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] stands near the prototype area, gesturing energetically with both hands while a group of engineers forms a semicircle with notepads and tablets. They write quick notes and nod as [Person A] leans forward with a confident, focused expression."
+      ],
+      "first_frame_prompt": [
+        "Wide electric vehicle factory floor with middle-aged male entrepreneur in black t-shirt walking beside engineers in yellow safety vests among robotic arms and safe sparks; warm orderly industrial energy.",
+        "Medium two-shot beside sleek electric car prototype with middle-aged male entrepreneur gently tapping hood and young male engineer holding tablet; clean workshop background, focused expressions.",
+        "Close-up of middle-aged male entrepreneur's animated hands mid-gesture with engineers, notepads, and attentive faces nearby; warm metal tones, focused energy."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] sits on a rooftop terrace bench at twilight, holding a cup of tea while a glowing city skyline stretches beyond a glass railing. He relaxes his shoulders and watches the skyline with a calm, subtle smile as evening colors soften.",
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] sits on the rooftop terrace and tilts his face upward toward a faint reddish point in the starry sky. A gentle breeze lifts his short dark hair while a deep blue and red sky gradient expands beautifully above the glowing city.",
+        "global caption: [Person A]: middle-aged man with short dark brown hair and light stubble wearing black t-shirt and dark jeans; shot caption: [Person A] sits on the bench and forms a small smile while lowering the cup of tea to his lap, with city lights and a star field glowing behind him. He keeps his gaze raised toward the night sky as the rooftop becomes quiet and still."
+      ],
+      "first_frame_prompt": [
+        "Wide rooftop terrace at blue hour with middle-aged male entrepreneur in black t-shirt seated on bench holding tea; glowing city skyline, peaceful composition.",
+        "Rooftop profile starting frame with middle-aged male entrepreneur looking upward toward starry sky and faint reddish point; gentle breeze lifting short dark hair, deep blue-to-red gradient.",
+        "Medium-wide rooftop pullback start with middle-aged male entrepreneur showing subtle smile against city lights and star field; tranquil inspirational tone."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    }
+  ]
+}

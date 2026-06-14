@@ -1,0 +1,76 @@
+{
+  "story_name": "Sam Altman and the Great GPU Hunt (Revised for Generation Models)",
+  "story_overview": "Sam Altman, frustrated by a GPU shortage, decides to find GPUs at a local supermarket. With simple readable signs and expressive actions, this short comedy tells a clear, visual story without complex motion or text.",
+  "reconstruct_target": "[Person A] man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans\n[Person B] man with short curly black hair wearing green store vest over white shirt and khaki pants\n[Person D] person with short dark hair wearing rectangular glasses and red store apron over striped shirt",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] leans toward a glowing monitor displaying bold 'GPU ALERT' text in a modern blue-lit office. He narrows his eyes thoughtfully and rests his hands near the keyboard, appearing slightly stressed as surrounding screens cast soft light.",
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] picks up his keys and a folded coat from a tidy desk, where a sticky note reads 'Buy GPUs'. He straightens his posture with a determined expression and turns toward the office door as warm sunlight crosses the tabletop.",
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] sits inside a compact electric car outside a glass-front tech office and begins driving along a calm city street. He keeps both hands on the steering wheel and forms a small smile as buildings slide past the windows."
+      ],
+      "first_frame_prompt": [
+        "Modern blue-lit tech office; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, and focused eyes leaning toward a glowing monitor with abstract warning graphics.",
+        "Tidy office desk in warm sunlight; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, and determined posture reaching for car keys and a folded coat.",
+        "Curbside outside a glass-front tech office; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, and faint smile seated in a compact electric car."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] pushes an empty shopping cart through a bright entrance beneath a large 'SUPER MARKET' sign. He leans forward slightly with focused eyes as he walks through the automatic doors, the polished floors reflecting overhead retail lights.",
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] stands in an electronics aisle and lifts a shiny toaster from a shelf beside a small paper tag reading 'GPU 5090'. He tilts his head curiously, raises one eyebrow, and examines the toaster with an intrigued expression.",
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans, [Person B]: man with short curly black hair wearing green store vest over white shirt and khaki pants; shot caption: [Person B] stands at an aisle intersection and gestures toward a produce section labeled 'VEGETABLES'. [Person A] nods with hopeful eyes and pushes his shopping cart in the indicated direction, moving past shelves of leafy greens."
+      ],
+      "first_frame_prompt": [
+        "Bright supermarket entrance with automatic doors and colorful storefront decorations; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, pushing an empty shopping cart.",
+        "Supermarket electronics aisle; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, holding a shiny toaster near shelf tags decorated with chip-like doodles.",
+        "Aisle intersection inside a supermarket; young adult store employee with green vest and short curly black hair pointing toward leafy produce while middle-aged male tech executive with navy hoodie and dark casual jacket turns the cart."
+      ],
+      "cut": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] stands before supermarket shelves stacked with green cans labeled 'Green Pea Units (GPU)'. He holds one can close to his face, raising his eyebrows as he forms a puzzled but amused half-smile while examining the item.",
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans, [Group C]: group of people wearing casual clothing; shot caption: [Person A] pushes a shopping cart filled with shiny toasters, small lamps, and green cans through an aisle. He walks with a proud upright stride while mixed adult supermarket shoppers with varied builds, casual clothing, and curious faces turn heads."
+      ],
+      "first_frame_prompt": [
+        "Front view of supermarket shelves stacked with green cans decorated by pea and microchip symbols; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, lifting one can with raised eyebrows.",
+        "Supermarket aisle with a cart piled with shiny toasters, small lamps, and green cans; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, walking proudly as curious shoppers glance over."
+      ],
+      "cut": [
+        true,
+        false
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] places shiny toasters, green cans, small lamps, and chip bags reading 'GPU FLAVOR' onto a checkout conveyor. He arranges his strange haul carefully and presses his lips into a proud, satisfied smile under bright store lights.",
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans, [Person D]: person with short dark hair wearing rectangular glasses and red store apron over striped shirt, [Group C]: group of people wearing casual clothing; shot caption: [Person D] pauses at the scanner, looking confused at the odd pile of items. [Person A] nods proudly beside the counter while mixed adult supermarket shoppers with varied builds, casual clothing, and curious faces smile in the background.",
+        "global caption: [Person A]: man with short dark hair wearing navy hoodie under dark casual jacket and dark jeans; shot caption: [Person A] pushes a shopping cart filled with gently glowing appliances, green cans, and 'GPU FLAVOR' chip bags across a parking lot at sunset. He looks upward with a calm, satisfied smile as warm orange light spreads across the sky and parked cars."
+      ],
+      "first_frame_prompt": [
+        "Bright supermarket checkout conveyor holding shiny toasters, green cans, small lamps, and chip bags with computer-chip snack graphics; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, arranging the items proudly.",
+        "Checkout counter under bright store lights; adult cashier with red apron and rectangular glasses pausing at the scanner while middle-aged male tech executive with navy hoodie under dark casual jacket nods beside an odd pile of groceries and appliances.",
+        "Sunset supermarket parking lot; middle-aged male tech executive with slim build, short dark hair, navy hoodie under dark casual jacket, pushing a cart filled with gently glowing appliances, green cans, and chip bags."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ]
+    }
+  ]
+}

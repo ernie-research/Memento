@@ -1,0 +1,63 @@
+# Source archive (large, not needed for inference)
+code/
+train_code/
+
+# Model weights (distributed separately)
+huggingface_upload/
+models
+models/
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+
+# Inference outputs
+results/
+showcase_out/
+showcase_out_fix/
+
+# Training outputs
+outputs/
+
+# Training data
+train_data/
+
+# Archives
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Logs
+*.log
+log.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# BOS credentials
+bos_config.yaml
+
+# Papers / docs (not part of the source release)
+*.pdf
+
+# Misc utility scripts (one-off, not part of the release)
+kill_process.sh
+convert_weights_to_safetensors.py
+extract_keyframes.py
+make_fake_train_data.py
