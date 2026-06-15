@@ -1,0 +1,58 @@
+{
+  "story_name": "A Man and His Dog",
+  "story_overview": "A young man and his loyal dog share a peaceful daily life full of quiet joy and companionship. They begin their day with a morning walk, play together in the park, and return home to rest side by side. The story captures small, heartfelt moments that show their deep bond, from playful energy to tranquil comfort, emphasizing the beauty of simple connection between humans and animals.",
+  "reconstruct_target": "[Person A] young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Person A] slowly wakes up in bed and stretches his arms in a cozy apartment bedroom as [Animal A] jumps onto the blanket, wagging its tail excitedly. Warm morning sunlight streams through the curtains, filling the peaceful room with a soft golden glow.",
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Person A] kneels by the apartment doorway to tie his sneakers while [Animal A] waits patiently beside him, holding a leash in its mouth. Morning light filters through the window as [Person A] smiles calmly at [Animal A] before rising to head out together."
+      ],
+      "first_frame_prompt": [
+        "A young adult man with light skin, short dark brown hair, soft light gray T-shirt, and dark jogger pants stretches on a bed while a medium-sized golden retriever dog with golden fur, floppy ears, and red collar lands beside the blanket with a wagging tail; warm sunrise fills the cozy bedroom.",
+        "A young adult man with light skin, short dark brown hair, soft light gray T-shirt, dark jogger pants, and white sneakers kneels at the apartment doorway tying shoes while a medium-sized golden retriever dog with golden fur, floppy ears, and red collar sits close with a leash held in the mouth; gentle morning rays cross the floor."
+      ],
+      "cut": [
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Person A] walks along a tree-lined park path under a clear blue sky with [Animal A] trotting happily beside him. [Animal A] occasionally glances upward as gentle sunlight filters through the leaves, casting soft shadows across the green grass and pathway.",
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Animal A] sprints across an open grassy field, chasing a yellow tennis ball with flapping ears and sunlit fur. The camera follows the movement as [Person A] stands in the distance, laughing and watching joyfully as the ball rolls ahead through the grass.",
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Animal A] proudly returns across the grass with the tennis ball in its mouth, tail wagging excitedly. [Person A] crouches low with open hands to praise it, leaning forward with a warm smile as they share a playful exchange under soft, tender lighting."
+      ],
+      "first_frame_prompt": [
+        "A young adult man with light skin, short dark brown hair, soft light gray T-shirt, dark jogger pants, and white sneakers walks beside a medium-sized golden retriever dog with golden fur, floppy ears, and red collar on a tree-lined park path; the dog glances upward in dappled morning light.",
+        "A medium-sized golden retriever dog with golden fur, floppy ears, bright dark eyes, and red collar sprints across an open grassy field after a yellow tennis ball; a young adult man with light skin, short dark brown hair, soft light gray T-shirt, dark jogger pants, and white sneakers stands in the distance with a supportive smile.",
+        "A medium-sized golden retriever dog with golden fur, floppy ears, bright dark eyes, and red collar presents a yellow tennis ball forward while a young adult man with light skin, short dark brown hair, soft light gray T-shirt, dark jogger pants, and white sneakers crouches close with a warm smile; playful sunlight frames the faces."
+      ],
+      "cut": [
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Person A] sits beside [Animal A] on a park bench overlooking a glowing orange sunset sky. [Person A] gently pats the head of [Animal A], and the quiet pair look toward the horizon together as long shadows stretch across the grass in the calm atmosphere.",
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Person A] sits on a living room couch reading an open book while [Animal A] curls up beside him, resting its head on his knee. A floor lamp casts warm, soft light across the couch and their relaxed faces, creating a peaceful and quiet evening atmosphere.",
+        "global caption: [Person A]: young man with short dark brown hair wearing light gray T-shirt, dark jogger pants, and white sneakers, [Animal A]: medium-sized golden retriever dog with golden fur, floppy ears, dark eyes, and red collar; shot caption: [Animal A] falls asleep beside [Person A] on the living room couch while [Person A] smiles softly and slowly strokes its golden fur. The eyelids of [Animal A] stay closed with gentle breathing as the warm room light gradually dims, ending the peaceful scene."
+      ],
+      "first_frame_prompt": [
+        "A young adult man with light skin, short dark brown hair, soft light gray T-shirt, dark jogger pants, and white sneakers sits in profile beside a medium-sized golden retriever dog with golden fur, floppy ears, and red collar on a park bench; one hand rests on the dog's head as orange sunset light outlines the pair.",
+        "A young adult man with light skin, short dark brown hair, soft light gray T-shirt, dark jogger pants, and white sneakers sits on a couch looking at an open book with plain cream pages while a medium-sized golden retriever dog with golden fur, floppy ears, and red collar nestles beside the knee; warm lamp glow touches the faces and hands.",
+        "A medium-sized golden retriever dog with golden fur, floppy ears, bright dark eyes, and red collar rests with closed eyes beside a young adult man with light skin, short dark brown hair, soft light gray T-shirt, dark jogger pants, and white sneakers; the man's hand gently strokes the fur in soft dim light."
+      ],
+      "cut": [
+        true,
+        true,
+        false
+      ]
+    }
+  ]
+}

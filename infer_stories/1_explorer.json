@@ -1,0 +1,70 @@
+{
+  "story_name": "The Lost City of Eternis",
+  "story_overview": "An intrepid explorer ventures deep into the jungle and stumbles upon the long-lost city of Eternis. As he journeys through dense forests, ancient ruins, and mysterious chambers, he uncovers relics of a forgotten civilization. The story captures the awe and quiet wonder of discovery, balancing tension and serenity as the explorer realizes he has uncovered something truly eternal.",
+  "reconstruct_target": "[Person A] man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] hikes through a misty jungle at dawn, carrying a folded map in one hand with thick vines hanging from towering trees. He steps carefully over wet roots while golden light breaks through the humid canopy air.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] kneels beside an overgrown stone marker partly buried in moss, brushing away damp soil with steady fingers. He leans closer with a curious expression as faint carved glyph patterns emerge from beneath the moss.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] looks up from the mossy marker toward a faint stone pathway leading deeper into the jungle. He steps cautiously onto the old path, parting hanging branches with one hand as he moves forward.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] stops in awe at the edge of a misty valley as distant ancient stone towers appear through the fog. He stands still with a lifted face and lowered map while cool mist drifts across the valley floor."
+      ],
+      "first_frame_prompt": [
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots stands in dawn jungle mist with a folded map in one hand.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots kneels beside a moss-covered stone marker while brushing damp soil from faint carved patterns.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots steps onto a faint stone path while parting jungle branches.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots pauses at a foggy valley edge before distant ancient towers."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] approaches massive vine-covered stone gates at the entrance of the lost city, tracing carved glyph patterns with his fingers. He moves slowly under leaf-filtered sunlight as hanging vines sway around the gate.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: Beyond the massive vine-covered stone gates, [Person A] descends a long flight of worn stone steps leading deeper into the lost city. He moves carefully downward as sunlight fades behind him and dust drifts through the cool air.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] walks slowly through the dim corridor at the base of the stone steps, raising a burning torch beside walls covered in glowing murals and carved marks. He moves at a measured pace as flickering light reveals damp stone textures and old roots.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] enters a grand chamber filled with crumbling statues and a central stone altar. He turns slowly in silent wonder beneath towering stone figures, his eyes widening as torchlight glides across dusty pillars."
+      ],
+      "first_frame_prompt": [
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots stands beside vine-draped stone gates with fingers resting on carved patterns.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots braces both hands against a heavy stone door as sunlight catches dust near the opening.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots advances through a dim stone corridor with a raised torch beside glowing mural patterns.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots enters a vast chamber with crumbling statues and a central altar."
+      ],
+      "cut": [
+        true,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] carefully lifts a small golden relic with engraved spiral patterns, worn edges, and warm reflective metal from the central altar. He steadies his trembling fingers, studying the artifact as torchlight ripples across its surface.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] examines the small golden relic with engraved spiral patterns, worn edges, and warm reflective metal as hidden stone mechanisms shift. He raises his face toward a ceiling opening where beams of sunlight pour down through drifting dust.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] stands bathed in golden shafts of sunlight, holding the small golden relic with engraved spiral patterns, worn edges, and warm reflective metal close to his chest. He gazes upward in awe as dust sparkles across the illuminated statues.",
+        "global caption: [Person A]: man with short dark stubble wearing khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots; shot caption: [Person A] remains motionless in the radiant chamber, holding the small golden relic with engraved spiral patterns, worn edges, and warm reflective metal at waist level. He keeps a reverent posture as golden light fills the room and dust drifts by."
+      ],
+      "first_frame_prompt": [
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots lifts a small golden relic with engraved spiral patterns from a stone altar.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots looks upward while holding a small golden relic as ceiling mechanisms open above.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots stands in golden sunlight with a small engraved relic held close to the chest.",
+        "A rugged adult male explorer with sun-browned skin, athletic build, short dark stubble, khaki field shirt, khaki trousers, wide-brimmed brown hat, leather backpack, and sturdy brown boots stands still in a radiant chamber doorway with a small golden relic at waist level."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "story_name": "Simple PhD life",
+  "story_overview": "A compact, uplifting arc of an AI PhD student: focused coding leads to a breakthrough, mentorship sharpens the work, and intense paper writing culminates in an acceptance. The journey continues through travel and a confident conference presentation, ending with a quiet seaside reflection — a portrait of curiosity, resilience, and earned joy.",
+  "reconstruct_target": "[Person A] young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers\n[Person B] older man with short gray hair wearing rectangular glasses and charcoal suit",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers; shot caption: [Person A] sits at a desktop computer in a tidy dorm room, typing quickly on the keyboard. He leans forward toward the glowing monitor, eyes locked on the screen, surrounded by scattered books, a coffee mug, and sticky notes under warm desk lighting.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers; shot caption: [Person A] sits at the desktop computer as new experiment charts appear on the glowing monitor. He widens his eyes, raises his eyebrows, and parts his mouth in delighted surprise, freezing for a brief moment under the cool screen light reflecting on his face.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers, [Person B]: older man with short gray hair wearing rectangular glasses and charcoal suit; shot caption: [Person A] stands beside [Person B] in a university office filled with bookshelves and academic posters, gesturing animatedly toward a laptop. [Person B] faces the screen with a composed posture while [Person A] points at research charts, waiting for feedback.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers; shot caption: [Person A] wearing large headphones, sits at a cluttered desk, leaning over multiple monitors while drafting a research paper. His eyes dart between screens as he taps rapidly on the keyboard among notes and empty coffee cups under the bluish monitor light.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers, [Person B]: older man with short gray hair wearing rectangular glasses and charcoal suit; shot caption: [Person A] sits beside [Person B] in a quiet faculty lounge with soft daylight, checking a laptop with tense shoulders and restless hands. [Person B] waits calmly with folded arms while [Person A] nervously glances between the screen and [Person B] with a smile.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers, [Person B]: older man with short gray hair wearing rectangular glasses and charcoal suit; shot caption: [Person A] springs up from the seat beside [Person B] as the laptop shows a bright green decision graphic. They both break into wide smiles, raise their open palms, and complete a celebratory high five as loose papers lift slightly from the sudden motion.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers; shot caption: [Person A] wheels a compact suitcase through a busy airport terminal filled with distant travelers and glowing overhead panels. He walks with steady determination, lifting his gaze toward the departure area with an excited smile while moving through the crowd.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers; shot caption: [Person A] stands confidently on a large conference hall stage, holding a presentation clicker while a giant screen behind him shows abstract research diagrams. He makes clear open-handed gestures toward the audience seated in dim light, maintaining calm focus.",
+        "global caption: [Person A]: young man with short dark hair wearing rectangular glasses, dark sunglasses, light casual shirt and rolled-up trousers; shot caption: [Person A] strolls barefoot along a seaside resort shoreline at golden sunset, moving beside soft ocean waves. He turns his face toward the horizon, relaxes his shoulders, and smiles quietly as warm sunset light reflects across the waterline."
+      ],
+      "first_frame_prompt": [
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, navy hoodie, dark jeans, and casual sneakers typing at a desktop computer in a warm tidy dorm room.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, navy hoodie, dark jeans, and casual sneakers staring at glowing experiment charts with wide eyes and delighted surprise.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, navy hoodie, dark jeans, and casual sneakers gesturing toward a laptop beside an older male professor with short gray hair, rectangular glasses, charcoal suit, and calm expression in a university office.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, navy hoodie, dark jeans, casual sneakers, and large headphones leaning toward multiple monitors at a cluttered late-night research desk.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, navy hoodie, dark jeans, and casual sneakers nervously checking a laptop beside an older male professor with short gray hair, rectangular glasses, charcoal suit, and calm folded-arm posture.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, navy hoodie, dark jeans, and casual sneakers raising an open palm for a high five with an older male professor in a charcoal suit as papers lift from the desk.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, navy hoodie, dark jeans, and casual sneakers rolling a suitcase through a bright airport terminal.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, dark conference blazer, light shirt, dark trousers, and formal shoes standing on a conference stage with a clicker and open-handed presentation gesture.",
+        "Young male AI PhD student with short dark hair, rectangular glasses, slim build, light casual vacation shirt, rolled-up trousers, bare feet, and dark sunglasses walking along a sunset shoreline with a relaxed smile."
+      ],
+      "cut": [
+        true,
+        false,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

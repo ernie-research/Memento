@@ -1,0 +1,61 @@
+{
+  "story_name": "Mr. Bean's Culinary Catastrophe",
+  "story_overview": "Mr. Bean attempts to prepare a simple meal but his eccentric and clumsy nature turns the kitchen into a chaotic playground. He tries to make a sandwich but every step leads to a comedic disaster, involving a toaster that launches bread into the ceiling and a stubborn jar of peanut butter. The climax is a slapstick showdown with an overflowing blender. In the end, Mr. Bean hilariously gives up, opting for a simple biscuit, while his kitchen is left in complete disarray. The story is a visual comedy filled with classic Mr. Bean gags and physical humor, with minimal dialogue.",
+  "reconstruct_target": "[Person A] middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] enters a brightly lit kitchen, rubbing his hands together. He walks toward a counter with a loaf of bread and a butter knife, leaning over with hungry determination and pulling the bread closer with careful movements.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] takes two slices of bread and places them into a shiny chrome toaster on the counter with exaggerated pride. He leans forward, his eyes fixed on the toaster slots, raising his eyebrows in eager anticipation.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: A shiny chrome two-slot toaster with two pale bread slices in the slots dings on the counter and launches the toast upward as [Person A] snaps his gaze toward the ceiling, crumbs scattering through the air.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] stands beneath a white ceiling fan with two toast slices stuck across the blades, mouth open and arms raised. He hops repeatedly under the fan with awkward little jumps, but the toast stays out of reach.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: Abandoning the toast, [Person A] stands at the counter and grips a sealed peanut butter jar with a stubborn metal lid using both hands. He twists the lid with clenched teeth, hunched shoulders, and a reddening face.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] holds a sealed peanut butter jar with a stubborn metal lid. He taps it with a spoon, flips the sealed peanut butter jar with a stubborn metal lid upside down, shakes it hard, and freezes with a rigid, frustrated stare."
+      ],
+      "first_frame_prompt": [
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers enters a bright kitchen, rubbing both hands near bread and a butter knife.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers leans close to a chrome toaster, eyes locked on two bread slices in the slots.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers hovers near a chrome toaster as two toast slices begin launching upward.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers stands below a white ceiling fan with toast stuck on the blades, mouth open and arms reaching upward.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers grips a sealed peanut butter jar at the counter, face red with effort and shoulders tense.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers shakes an upside-down peanut butter jar beside a spoon, then stares rigidly toward the camera with visible frustration."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] places the sealed peanut butter jar with a stubborn metal lid on the counter and lifts a peeled yellow banana. He handles the peeled yellow banana with exaggerated care, lips pressed tight in intense concentration.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] drops the peeled yellow banana into a clear blender jar on a white base and raises a plain milk carton. He pours milk into the clear blender jar on a white base, his gaze fixed on the rising liquid with a serious posture.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] twists the dial to the highest setting beside a clear blender jar on a white base. The clear blender jar on a white base vibrates as banana-milk foam surges upward, spilling through the open top and splashing across the floor.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] slips across banana-milk puddles while reaching toward the clear blender jar on a white base with sticky hands. He windmills both arms, skids sideways, and bumps the counter as splashes spread across the floor.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] stands completely splattered with the banana-milk mixture beside puddles and streaked cabinets. He looks down at his stained jacket and trousers, releases a huge silent sigh through drooping shoulders, and shuffles toward a cabinet.",
+        "global caption: [Person A]: middle-aged man with short brown hair wearing brown tweed jacket, white collared shirt, red tie, and dark trousers; shot caption: [Person A] sits at a clean table in front of a single round biscuit with the wrecked kitchen behind him. He takes a calm bite from the single round biscuit, looking forward with a triumphant smile and raised eyebrows amidst the chaos."
+      ],
+      "first_frame_prompt": [
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers sets a sealed peanut butter jar aside and lifts a ripe yellow banana in a cluttered kitchen.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers drops a peeled banana into a clear blender and pours milk with intense focus.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers twists the blender dial as banana-milk foam surges upward inside the jar.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers slips across banana-milk puddles, arms flailing near the overflowing blender.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers stands soaked in banana-milk mixture, staring down at stained clothes while reaching toward a cabinet.",
+        "Middle-aged man with slim build, short brown hair, wide expressive face, brown tweed jacket, white shirt, red tie, and dark trousers sits calmly at a clean table with a single biscuit as the wrecked kitchen fills the background."
+      ],
+      "cut": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        true
+      ]
+    }
+  ]
+}

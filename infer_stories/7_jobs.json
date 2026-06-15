@@ -1,0 +1,61 @@
+{
+  "story_name": "The Vision of Steve Jobs",
+  "story_overview": "A short biographical story capturing key moments in Steve Jobs’s journey — from his early curiosity and innovation in a humble garage, to his triumphant Apple keynote unveiling the iPhone. Through quiet determination, creativity, and vision, the story portrays how passion and simplicity shaped one of the most iconic figures in technology history.",
+  "reconstruct_target": "[Person A] young man with shoulder-length dark hair wearing thin wire-frame glasses, black turtleneck, blue jeans\n[Person B] young man with curly brown hair and full beard wearing plaid shirt, denim jacket\n[Person C] middle-aged man with close-cropped gray hair wearing round wire-frame glasses, black turtleneck, blue jeans, gray sneakers",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: young man with shoulder-length dark hair wearing thin wire-frame glasses, black turtleneck, blue jeans; shot caption: [Person A] sits at a cluttered workbench inside a dim garage filled with tools and electronic parts. He sketches simple product shapes on a notepad beneath a warm desk lamp, maintaining a focused forward lean and steady hand as he works.",
+        "global caption: [Person A]: young man with shoulder-length dark hair wearing thin wire-frame glasses, black turtleneck, blue jeans, [Person B]: young man with curly brown hair and full beard wearing plaid shirt, denim jacket; shot caption: [Person A] carefully connects circuit boards on a wooden table while [Person B] watches closely inside the cluttered garage workshop. [Person B] smiles as a small prototype light flickers on, and [Person A] pauses with his hands above the components.",
+        "global caption: [Person A]: young man with shoulder-length dark hair wearing thin wire-frame glasses, black turtleneck, blue jeans; shot caption: [Person A] leans near a small monitor as the screen flickers to life on the garage workbench. He widens his eyes slightly, relaxes his shoulders, and forms a satisfied grin while the cool monitor light reflects across his glasses."
+      ],
+      "first_frame_prompt": [
+        "global caption: [Person A]: young adult man resembling Steve Jobs with slim build, light skin, shoulder-length dark hair, intense eyes, thin wire-frame glasses, black turtleneck, blue jeans; shot caption: [Person A] sits over a notepad under a warm desk lamp in a cluttered garage, surrounded by tools and electronic parts.",
+        "global caption: [Person A]: young adult man resembling Steve Jobs with slim build, light skin, shoulder-length dark hair, intense eyes, thin wire-frame glasses, black turtleneck, blue jeans; [Person B]: young adult man resembling Steve Wozniak with stocky build, light skin, curly brown hair, full beard, plaid shirt, denim jacket; shot caption: [Person A] and [Person B] lean over circuit boards as a tiny prototype light brightens the garage workbench.",
+        "global caption: [Person A]: young adult man resembling Steve Jobs with slim build, light skin, shoulder-length dark hair, intense eyes, thin wire-frame glasses, black turtleneck, blue jeans; shot caption: [Person A] faces a flickering CRT monitor, with reflected screen light on the glasses and a small satisfied grin forming."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person C]: middle-aged man with close-cropped gray hair wearing round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] walks through a modern technology office with glass meeting rooms, wooden workstations, large digital displays, and floor-to-ceiling windows overlooking the city. He maintains a composed stride, relaxed shoulders, and a forward gaze as he moves with calm confidence.",
+        "global caption: [Person C]: middle-aged man with close-cropped gray hair wearing round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] lifts a sleek early smartphone prototype with a black glass front, rounded metal edges, and a minimalist button layout from the conference table covered with product sketches and design documents. He slowly turns the device toward the natural light from the windows, revealing its thin profile and smooth reflective surface as several colleagues standing nearby watch attentively.",
+        "global caption: [Person C]: middle-aged man with close-cropped gray hair wearing round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: After the discussion, [Person C] sits at the conference table holding the smartphone prototype in one hand. He gently runs his fingers across the smooth glass surface and studies its clean shape for a moment before showing a subtle, satisfied smile."
+      ],
+      "first_frame_prompt": [
+        "global caption: [Person C]: middle-aged man resembling Steve Jobs with slim build, light skin, close-cropped gray hair, calm intense eyes, round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] strides through a bright white corridor with composed posture and calm focus.",
+        "global caption: [Person C]: middle-aged man resembling Steve Jobs with slim build, light skin, close-cropped gray hair, calm intense eyes, round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; [Group A]: small group of adult industrial designers with varied builds and light studio clothing, standing beside sleek tables in a minimalist product design studio; shot caption: [Person C] lifts an early smartphone prototype in the studio while [Group A] watches beside clean product tables.",
+        "global caption: [Person C]: middle-aged man resembling Steve Jobs with slim build, light skin, close-cropped gray hair, calm intense eyes, round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] glides one hand over smooth glass, with a restrained smile and soft studio light reflecting across the device."
+      ],
+      "cut": [
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person C]: middle-aged man with close-cropped gray hair wearing round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] stands at center stage beneath a soft spotlight, holding a composed posture with relaxed shoulders. He pauses for a moment, slowly scanning the audience before bringing one hand slightly forward, his calm expression building anticipation.",
+        "global caption: [Person C]: middle-aged man with close-cropped gray hair wearing round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] smoothly raises the smartphone in one hand to shoulder height and turns it slightly toward the audience beneath the focused stage light. He holds the device steady for a moment, then shows a confident, modest smile as applause rises from the dim auditorium.",
+        "global caption: [Person C]: middle-aged man with close-cropped gray hair wearing round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] sits alone backstage in warm subdued light, holding the smartphone in an open palm beside a simple chair and dark curtain. He lowers his gaze to the device, then forms a soft, peaceful smile while the surrounding space grows quiet and still."
+      ],
+      "first_frame_prompt": [
+        "global caption: [Person C]: middle-aged man resembling Steve Jobs with slim build, light skin, close-cropped gray hair, calm intense eyes, round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; [Group B]: large keynote audience of adults in dark auditorium seating, faces softly lit by stage glow; shot caption: [Person C] stands at center stage before a dark backdrop while [Group B] waits in dim auditorium light.",
+        "global caption: [Person C]: middle-aged man resembling Steve Jobs with slim build, light skin, close-cropped gray hair, calm intense eyes, round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; [Group B]: large keynote audience of adults in dark auditorium seating, faces softly lit by stage glow; shot caption: [Person C] holds the first iPhone up with a humble confident smile as [Group B] applauds in the dark auditorium.",
+        "global caption: [Person C]: middle-aged man resembling Steve Jobs with slim build, light skin, close-cropped gray hair, calm intense eyes, round wire-frame glasses, black turtleneck, blue jeans, gray sneakers; shot caption: [Person C] sits backstage with the first iPhone resting in an open palm, warm light shaping a quiet reflective smile."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ]
+    }
+  ]
+}

@@ -98,7 +98,7 @@ Example:
 
 ```bash
 bash run_inference.sh \
-  ./story_rewritten_aligned/showcase/astronaut.json \
+  ./infer_stories/3_astronaut.json \
   ./results/astronaut \
   ./models/memento_lora
 ```
@@ -113,7 +113,7 @@ Example:
 
 ```bash
 bash run_inference_batch.sh \
-  ./story_rewritten_aligned/showcase \
+  ./infer_stories \
   ./results/my_run \
   ./models/memento_lora
 ```
