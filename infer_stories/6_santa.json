@@ -1,0 +1,75 @@
+{
+  "story_name": "The Real Santa Claus",
+  "story_overview": "A heartfelt story revealing the quiet, genuine side of Santa Claus as he prepares for Christmas Eve. From his cozy workshop in the North Pole to delivering gifts under the starlit sky, we see Santa’s care, warmth, and love for children around the world. The story captures the gentle magic of Christmas through intimate moments of preparation, wonder, and kindness.",
+  "reconstruct_target": "",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: [Person A] sits at a large wooden table inside a warm workshop filled with shelves of toys, wrapped gifts, and softly glowing lanterns. He moves a quill steadily across an open ledger, pausing occasionally to review the names on the page before adding another careful note.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: After closing the ledger, [Person A] reaches for a wooden toy train resting on the table and carefully polishes its painted surface with a soft cloth. He slowly rolls the train across the tabletop with one gloved hand, watching the wheels turn smoothly before showing a satisfied smile.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: Setting the toy train back onto the table, [Person A] rises from his chair and begins walking toward the left side of the workshop. The camera follows his movement as a large glowing world map gradually comes into view on the wall to his left. He stops before the illuminated map, studies the routes for a moment, then gently adjusts his glasses and gives a quiet nod."
+      ],    
+      "first_frame_prompt": [
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves sits at a wooden table in a warm North Pole workshop, quill above an open leather-bound ledger, shelves of toys behind, frosted window with gentle snowfall.",
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves polishes a small wooden toy train under soft firelight, finished toys stacked neatly beside the workshop table.",
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves stands before a world map with tiny golden points, warm workshop light reflecting in the glasses."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: [Person A] stands inside a snowy reindeer stable beside a group of strong brown reindeer with soft winter coats, branching antlers, leather harnesses, and small bells. He slowly pats their necks and shoulders one by one, smiling warmly as the animals shift their weight and the bells give a gentle jingle.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves, [Animal A]: brown reindeer with broad branching antlers, leather harness, and small bells; shot caption: Stepping closer to [Animal A] inside the same stable, [Person A] holds out a carrot with one gloved hand. [Animal A] lowers its head and gently takes the carrot while [Person A] watches with a pleased smile and softly strokes its neck.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves, [Person B]: elf with pointed ears wearing green wool coat, striped scarf, brown boots, and knitted cap; shot caption: As [Person A] finishes caring for the reindeer, [Person B] approaches through the stable carrying a rolled scroll and places it into his hand. [Person A] accepts the scroll, gives it a brief glance, then takes hold of the reins of the nearby reindeer team as the bells softly ring around him."
+      ],
+      "first_frame_prompt": [
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves pats harnessed brown reindeer in a snowy stable, visible breath in cold air, faint aurora beyond the open door.",
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves offers a carrot to a strong brown lead reindeer with branching antlers and bright dark eyes, playful muzzle close to the gloved hand.",
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves steps into an ornate gift-filled sleigh while a small elf in a green coat offers a rolled parchment beside harnessed reindeer."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: A team of strong brown reindeer with soft winter coats, branching antlers, leather harnesses, and ringing bells pulls a sleigh carrying [Person A] through bright moonlit clouds. [Person A] sits upright holding the reins, his red coat fluttering slightly as the sleigh glides smoothly across the night sky.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: After arriving above a quiet snow-covered village, [Person A] steps down onto a snow-dusted rooftop carrying a large red sack of gifts over one shoulder. He walks carefully across the roof toward a moonlit chimney as fresh snow crunches beneath his boots.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves, [Person C]: young child wearing warm pajamas and small blanket; shot caption: Inside the cozy house below, [Person A] kneels beside a decorated tree and carefully places a wrapped gift beneath its branches. He rises with a gentle smile and glances toward [Person C], who rests quietly nearby wrapped in a blanket as warm holiday lights glow throughout the room."
+      ],
+      "first_frame_prompt": [
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves rides an ornate sleigh pulled by harnessed brown reindeer across a full-moon night sky above snowy peaks and glowing villages.",
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves stands on a snow-dusted rooftop with a red gift sack over one shoulder, moonlit chimney ahead.",
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves places a wrapped gift beneath a glowing Christmas tree, stockings near the fireplace, sleeping child softly blurred in the background."
+      ],
+      "cut": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 4,
+      "video_prompts": [
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: [Person A] sits in his sleigh beneath fading stars as the first light of dawn appears on the horizon. He exhales a visible breath into the cold air and gently lowers the reins, looking toward the brightening sky after the long night's journey.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: Returning to his sunlit workshop, [Person A] pushes open the wooden door and steps inside. He removes his hat and hangs it beside the entrance, then pauses beside the now-empty worktable, slowly looking across the quiet room filled with shelves of toys and wrapped gifts.",
+        "global caption: [Person A]: elderly man with long white beard wearing round glasses, red velvet coat with white fur trim, red trousers, black boots, and white gloves; shot caption: After a moment in the quiet workshop, [Person A] settles into a chair beside the workshop fireplace. He wraps both hands around a steaming mug of cocoa and smiles softly as the firelight flickers across his glasses and the warm room gradually grows still."
+      ],
+      "first_frame_prompt": [
+        "Elderly Santa Claus with long white beard, round glasses, red velvet coat, and white gloves sits in an ornate sleigh beneath fading stars, dawn sky turning rose and gold, breath visible in cold air."
+      ],
+      "cut": [
+        true
+      ]
+    }
+  ]
+}

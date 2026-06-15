@@ -1,0 +1,43 @@
+{
+  "story_name": "Harry Potter and the Midnight Spell",
+  "reconstruct_target": "[Person A] teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand\n[Person B] woman with long red hair wearing soft glowing robe\n[Person C] man with dark hair wearing soft glowing robe",
+  "scenes": [
+    {
+      "scene_num": 1,
+      "video_prompts": [
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand; shot caption: [Person A] walks quietly through a dim stone corridor at midnight, holding his wand as floating candles drift above the walkway. He takes careful, measured steps, while warm candlelight casts soft shadows across the walls and floor.",
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand; shot caption: [Person A] enters a dark library, carrying a small lantern that casts warm light across tall shelves and a wooden floor. He slowly scans endless rows of ancient books, maintaining a cautious posture and steady gaze as he explores the shadows."
+      ],
+      "cut": [
+        true,
+        true
+      ]
+    },
+    {
+      "scene_num": 2,
+      "video_prompts": [
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand; shot caption: [Person A] reaches toward a shadowed shelf and pulls an old dusty spellbook with a worn leather cover, dust along the edges, and a faint golden shimmer free. He opens it on a wooden table, revealing moving handwritten text under flickering lantern light.",
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand; shot caption: [Person A] sits at a table, whispering above the open old dusty spellbook with a worn leather cover, dust along the edges, and a faint golden shimmer. A faint blue swirl rises from the pages and circles him, illuminating his face as his eyes widen in wonder.",
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand, [Person B]: woman with long red hair wearing soft glowing robe, [Person C]: man with dark hair wearing soft glowing robe; shot caption: [Person B] and [Person C] form within blue light above the old dusty spellbook with a worn leather cover, dust along the edges, and a faint golden shimmer. [Person A] lifts his gaze toward the glowing figures, his face softening with warmth and disbelief."
+      ],
+      "cut": [
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "scene_num": 3,
+      "video_prompts": [
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand; shot caption: [Person A] sits still at the wooden library table as the glowing figures slowly fade away into the quiet air. A single golden spark drifts downward from the fading light and settles onto his wand, while he gazes at it with soft awe.",
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand; shot caption: [Person A] gently closes the old dusty spellbook with a worn leather cover, dust along the edges, and a faint golden shimmer. He rises and turns toward the empty space above the table, remaining quiet as lantern light flickers across the shelves.",
+        "global caption: [Person A]: teenage male wizard with messy black hair and round glasses wearing Gryffindor robe holding a wooden wand; shot caption: [Person A] walks out of the dark library and into a long corridor as soft dawn light spills through tall windows. He continues forward at a steady pace, his silhouette blending gently with the pale morning light along the stone walls."
+      ],
+      "cut": [
+        true,
+        false,
+        true
+      ]
+    }
+  ]
+}
