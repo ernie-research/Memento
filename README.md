@@ -1,7 +1,7 @@
 # Memento - Reconstruct to Remember for Consistent Long Video Generation
 
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=googlechrome&logoColor=white)](https://ernie-research.github.io/Memento)
-[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.14667v1)
 [![Models](https://img.shields.io/badge/HuggingFace-Models-ffd21e?logo=huggingface&logoColor=black)](https://huggingface.co/ernie-research/Memento)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green?logo=apache&logoColor=white)](LICENSE)
 
