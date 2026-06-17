@@ -287,13 +287,15 @@ def main(args):
             logging.info(f"Generating Scene {scene_num} / Shot {shot_num}: {prompt}")
             guide_scale = args.sample_guide_scale
             if args.mi2v and not scene["cut"][i]:
-                # guide_scale = args.sample_guide_scale
+                guide_scale = args.sample_guide_scale
+                print(f"current cfg: {guide_scale}")
                 _candidate = f"{args.output_dir}/last_frame.jpg"
                 first_frame_file = _candidate if os.path.exists(_candidate) else None
                 if first_frame_file is None:
                     logging.warning(f"mi2v enabled but {_candidate} not found, falling back to no first-frame conditioning")
             else:
-                # guide_scale = args.sample_guide_scale
+                guide_scale = args.sample_guide_scale + 1.5
+                print(f"current cfg: {guide_scale}")
                 first_frame_file = None
             if args.mm2v and not scene["cut"][i]:
                 _candidate = f"{args.output_dir}/motion_frames.mp4"

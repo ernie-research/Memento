@@ -16,6 +16,7 @@ models/
 results/
 showcase_out/
 showcase_out_fix/
+Memento_model/
 
 # Training outputs
 outputs/
@@ -59,5 +60,4 @@ bos_config.yaml
 # Misc utility scripts (one-off, not part of the release)
 kill_process.sh
 convert_weights_to_safetensors.py
-extract_keyframes.py
 make_fake_train_data.py
